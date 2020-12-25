@@ -3,6 +3,8 @@ A world generator that creates an avatar to move around in a randomly designed m
 
 ## Classes and Data Structures
 
+**Avatar:** Class to generate an avatar in the world
+
 **Generator:** Class to add rooms, hallways, and generate world
 
 **MakeHallway:** Class to create vertical and horizontal hallways
